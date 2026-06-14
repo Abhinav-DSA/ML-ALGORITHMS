@@ -1,6 +1,6 @@
 # 📉 Gradient Descent — Complete Guide for ML Beginners
 
-> *A thorough, interview-ready breakdown of Gradient Descent, its variants, learning rate effects, and the mathematics behind how models actually learn.*
+> *A thorough, interview-ready breakdown of Gradient Descent, its variants, learning rate effects, and the mathematics behind how models actually learn.* - Abhinav Srivastava
 
 ---
 
