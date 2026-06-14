@@ -1,6 +1,7 @@
 # 🤖 K-Means Clustering — Complete Guide
 
 > A beginner-to-intermediate guide on K-Means Clustering with real-world examples, step-by-step Python code, and visual intuition.
+> BY ABHINAV SRIVASTAVA
 
 ---
 
